@@ -4,7 +4,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://galinam-g.github.io/NFT_preview_card_component_galina/)
 
 ### Built with
 
@@ -13,12 +13,14 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - Flexbox
 - SASS
 - VS Code
+- B.E.M.
 
 ### What I learned
+
   During this project I learned how to use pseudo-elements for active state. I also learned how to be patient and how to pause and think for myself before looking for any help.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@GalinaM-G](https://www.frontendmentor.io/profile/GalinaM-G)
+
